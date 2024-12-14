@@ -20,3 +20,4 @@ Obrigado pelo interesse em contribuir para o projeto do RESTO no GitHub! A colab
 Essas são apenas algumas diretrizes para ajudar no processo de colaboração. Lembre-se de que o objetivo é trabalharmos juntos para melhorar o projeto do RESTO e criar algo incrível! 💚🌍
 
 Agradeço antecipadamente por sua participação e estou ansioso para ver suas contribuições valiosas! Se tiver alguma dúvida, não hesite em entrar em contato. Juntos, faremos a diferença! 🚀🙌
+🙌
